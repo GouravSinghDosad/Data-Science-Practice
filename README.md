@@ -1,437 +1,277 @@
 # 📊 Data Science Practice
 
-<p align="center">
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+Data+Science+Journey+%F0%9F%9A%80;Python+%7C+NumPy+%7C+Pandas+%7C+SQL;Data+Visualization+%7C+Statistics;Machine+Learning+%7C+Exploratory+Data+Analysis" />
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=29C5FF&center=true&vCenter=true&width=700&lines=Machine+Learning+%7C+Exploratory+Data+Analysis;Python+%7C+Statistics+%7C+Data+Visualization;Learning+Data+Science+One+Step+at+a+Time;Learn+%E2%86%92+Practice+%E2%86%92+Experiment+%E2%86%92+Build" alt="Typing SVG" />
 
-</p>
+<br/>
 
-<p align="center">
+[![GitHub](https://img.shields.io/badge/GITHUB-GOURAVSINGHDOSAD-181717?style=for-the-badge&logo=github)](https://github.com/GouravSinghDosad)
+[![Python](https://img.shields.io/badge/PYTHON-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Machine Learning](https://img.shields.io/badge/MACHINE-LEARNING-orange?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+[![Jupyter](https://img.shields.io/badge/JUPYTER-NOTEBOOK-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
-<a href="https://github.com/GouravSinghDosad">
-<img src="https://img.shields.io/badge/GitHub-GouravSinghDosad-181717?style=for-the-badge&logo=github"/>
-</a>
+<br/>
 
-<img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+**A hands-on journey into Data Science, Data Analysis, Statistics, and Machine Learning.**
 
-<img src="https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+*Learning by doing. Experimenting with data. Building real-world skills.*
 
-<img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-
-</p>
+</div>
 
 ---
 
 ## 👋 About This Repository
 
-Welcome to my **Data Science Practice Repository** 🚀
+Welcome to my **Data Science Practice Repository!** 🚀
 
-This repository documents my hands-on journey of learning and practicing **Data Science, Data Analysis, Statistics, Data Visualization, and Machine Learning** using Python.
+This repository documents my hands-on journey of learning and practising Data Science using Python.
 
-Rather than simply learning concepts theoretically, I use this repository to **implement them on real datasets, experiment with different approaches, visualize results, and build reusable data science workflows.**
+My focus is on developing a strong foundation in **Python, Data Analysis, Statistics, Exploratory Data Analysis (EDA), Data Visualization, and Machine Learning.**
+
+Rather than simply learning concepts theoretically, I use this repository to implement them on datasets, experiment with different approaches, visualize results, and understand how data-driven solutions work.
 
 ### 🎯 Main Objective
 
-> **Learn → Practice → Experiment → Analyze → Build → Improve**
+> Learn → Practice → Experiment → Analyze → Build → Improve
 
 ---
 
 ## 🧠 What I'm Learning
 
-<table>
-<tr>
-<td align="center" width="20%">
+<div align="center">
 
-### 🐍
+| 🔢 NumPy | 🐼 Pandas | 📊 Visualization |
+|:---:|:---:|:---:|
+| Numerical Computing | Data Manipulation | Data Exploration |
+| Array Operations | Data Cleaning | Matplotlib |
+| Broadcasting | Missing Values | Seaborn |
 
-**Python**
+| 📈 Statistics | 🤖 Machine Learning | 🗂️ Data Analysis |
+|:---:|:---:|:---:|
+| Probability | Regression | EDA |
+| Distributions | Classification | Data Preprocessing |
+| Hypothesis Testing | Model Evaluation | Feature Engineering |
 
-Programming & Data Science
+</div>
 
-</td>
+### 1. 🔢 NumPy – Numerical Computing
 
-<td align="center" width="20%">
+- Array creation and manipulation
+- Indexing and slicing
+- Mathematical operations
+- Broadcasting
+- Statistical operations
+- Multidimensional arrays
 
-### 🔢
+### 2. 🐼 Pandas – Data Analysis
 
-**NumPy**
+- Series and DataFrames
+- Data selection and filtering
+- Handling missing values
+- Duplicate detection and removal
+- GroupBy and aggregation
+- Sorting and merging
+- Data transformation
+- Working with CSV and Excel files
 
-Numerical Computing
+### 3. 📊 Data Visualization
 
-</td>
+- Matplotlib
+- Seaborn
+- Univariate and Bivariate Analysis
+- Histograms and Distribution Plots
+- Box Plots and Outlier Detection
+- Scatter Plots
+- Bar Plots and Count Plots
+- Heatmaps and Correlation Analysis
+- Subplots and Customized Visualizations
 
-<td align="center" width="20%">
+### 4. 📈 Statistics & Probability
 
-### 🐼
+- Descriptive Statistics
+- Mean, Median and Mode
+- Variance and Standard Deviation
+- Percentiles and Quantiles
+- Probability Distributions
+- Normal Distribution
+- Z-Score
+- Outlier Detection
+- Sampling Techniques
+- Hypothesis Testing
 
-**Pandas**
+### 5. 🤖 Machine Learning
 
-Data Manipulation
+**Data Preprocessing & Feature Engineering**
+- Missing Value Imputation
+- Encoding Techniques
+- Feature Scaling
+- Transformation Techniques
+- Outlier Detection and Treatment
+- Feature Selection
 
-</td>
+**Supervised Learning**
+- Linear Regression
+- Multiple Linear Regression
+- Logistic Regression
+- Decision Trees
+- K-Nearest Neighbors (KNN)
+- Support Vector Machines (SVM)
 
-<td align="center" width="20%">
+**Unsupervised Learning**
+- K-Means Clustering
+- Clustering Fundamentals
+- Dimensionality Reduction
 
-### 📊
+**Model Evaluation**
+- Train-Test Split
+- Cross Validation
+- Accuracy, Precision and Recall
+- F1-Score
+- R² Score
+- MAE and MSE
 
-**Visualization**
-
-Charts & Insights
-
-</td>
-
-<td align="center" width="20%">
-
-### 🤖
-
-**ML**
-
-Predictive Models
-
-</td>
-</tr>
-</table>
+*These are my learning areas and roadmap; not every topic necessarily represents a completed implementation.*
 
 ---
 
-# 📂 Repository Roadmap
+## ⚙️ My Data Science Workflow
 
-```text
-📊 Data-Science-Practice
-│
-├── 🔢 1. NumPy
-│   └── Numerical computing & array operations
-│
-├── 🐼 2. Pandas
-│   └── Data manipulation & analysis
-│
-├── 📊 3. Data Visualization
-│   ├── Matplotlib
-│   ├── Seaborn
-│   ├── Plotly
-│   └── Cufflinks
-│
-├── 🤖 4. Machine Learning
-│   ├── Regression
-│   ├── Classification
-│   ├── Clustering
-│   └── Model experimentation
-│
-├── 📐 5. Statistics & Probability
-│   ├── Probability
-│   ├── Statistical concepts
-│   └── Data interpretation
-│
-└── 📁 CSV Files
-    └── Datasets used throughout the practice
+I follow a structured approach when working with datasets.
+
+```mermaid
+flowchart TD
+    A["📂 Raw Dataset"] --> B["🔍 Data Understanding"]
+    B --> C["🧹 Data Cleaning"]
+    C --> D["📊 Exploratory Data Analysis"]
+    D --> E["⚙️ Feature Engineering"]
+    E --> F["🤖 Model Building"]
+    F --> G["📈 Model Evaluation"]
+    G --> H["🚀 Insights & Predictions"]
+
+    style A fill:#263B50,color:#fff,stroke:#29C5FF
+    style B fill:#263B50,color:#fff,stroke:#29C5FF
+    style C fill:#263B50,color:#fff,stroke:#29C5FF
+    style D fill:#263B50,color:#fff,stroke:#29C5FF
+    style E fill:#263B50,color:#fff,stroke:#29C5FF
+    style F fill:#284D3C,color:#fff,stroke:#35D07F
+    style G fill:#284D3C,color:#fff,stroke:#35D07F
+    style H fill:#493D26,color:#fff,stroke:#FFB84D
 ```
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python" />
+| Technology | Purpose |
+|---|---|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | Programming |
+| ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) | Numerical Computing |
+| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) | Data Manipulation |
+| ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat) | Data Visualization |
+| ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat) | Statistical Visualization |
+| ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) | Machine Learning |
+| ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) | Interactive Notebooks |
+| ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) | Version Control |
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Seaborn-4C9AFF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-
-</p>
+</div>
 
 ---
 
-# 🔢 01 — NumPy
-
-The foundation of numerical computing in Python.
-
-### Topics Practiced
-
-* Arrays
-* Array indexing & slicing
-* Broadcasting
-* Mathematical operations
-* Statistical operations
-* Array manipulation
-* Vectorized operations
-
----
-
-# 🐼 02 — Pandas
-
-Hands-on practice with **data manipulation and analysis**.
-
-### Topics Practiced
-
-* DataFrames & Series
-* Data loading
-* Data cleaning
-* Filtering & sorting
-* Missing-value handling
-* GroupBy
-* Merging & joining
-* Aggregation
-* Data transformation
-
----
-
-# 📊 03 — Data Visualization
-
-Turning raw data into meaningful visual insights.
-
-### Libraries
-
-| Library       | Purpose                     |
-| ------------- | --------------------------- |
-| 📈 Matplotlib | Fundamental visualization   |
-| 🎨 Seaborn    | Statistical visualization   |
-| 📊 Plotly     | Interactive visualization   |
-| ⚡ Cufflinks   | Pandas + Plotly integration |
-
-### Visualizations
-
-* Bar charts
-* Histograms
-* Scatter plots
-* Box plots
-* Heatmaps
-* Pair plots
-* Line charts
-* Distribution plots
-* Interactive charts
-
----
-
-# 🤖 04 — Machine Learning
-
-Hands-on experimentation with fundamental Machine Learning concepts.
-
-### Areas Covered
+## 📁 Repository Structure
 
 ```text
-Data
- │
- ▼
-Data Cleaning
- │
- ▼
-Exploratory Data Analysis
- │
- ▼
-Feature Engineering
- │
- ▼
-Train / Test Split
- │
- ▼
-Model Training
- │
- ▼
-Prediction
- │
- ▼
-Model Evaluation
-```
-
-### Models & Concepts
-
-* Regression
-* Classification
-* Clustering
-* Feature preprocessing
-* Model evaluation
-* Predictive modelling
-
----
-
-# 📐 05 — Statistics & Probability
-
-Building the mathematical foundation required for Data Science.
-
-### Topics
-
-* Probability
-* Descriptive statistics
-* Measures of central tendency
-* Measures of dispersion
-* Distributions
-* Statistical interpretation
-* Data-driven reasoning
-
----
-
-# 🔍 Practice Datasets
-
-Some of the datasets used throughout this repository include:
-
-### 🚢 Titanic
-
-Exploratory Data Analysis + Classification
-
-### 🌸 Iris
-
-Visualization + Classification + Clustering
-
-### ✈️ Flights
-
-Time-series exploration + Visualization
-
-### 📉 Churn
-
-Customer churn analysis + Machine Learning
-
----
-
-# 🧪 My Data Science Workflow
-
-```text
-             ┌──────────────┐
-             │   Dataset    │
-             └──────┬───────┘
-                    ↓
-          ┌──────────────────┐
-          │ Data Understanding│
-          └────────┬─────────┘
-                   ↓
-          ┌──────────────────┐
-          │ Data Cleaning    │
-          └────────┬─────────┘
-                   ↓
-          ┌──────────────────┐
-          │      EDA         │
-          └────────┬─────────┘
-                   ↓
-          ┌──────────────────┐
-          │ Visualization    │
-          └────────┬─────────┘
-                   ↓
-          ┌──────────────────┐
-          │ Feature Engineering│
-          └────────┬─────────┘
-                   ↓
-          ┌──────────────────┐
-          │ Machine Learning │
-          └────────┬─────────┘
-                   ↓
-          ┌──────────────────┐
-          │ Model Evaluation │
-          └──────────────────┘
+Data-Science-Practice/
+│
+├── 📂 NumPy/
+│   └── Numerical Computing & Array Operations
+│
+├── 📂 Pandas/
+│   └── Data Manipulation & Cleaning
+│
+├── 📂 Data Visualization/
+│   └── Matplotlib & Seaborn
+│
+├── 📂 Statistics & Probability/
+│   └── Statistical Concepts & Analysis
+│
+├── 📂 Machine Learning/
+│   └── ML Algorithms & Implementations
+│
+├── 📂 Datasets/
+│   └── CSV & Practice Datasets
+│
+└── 📄 README.md
 ```
 
 ---
 
-# 📈 Progress Tracker
+## 📚 How I Learn
 
-| Area                     |     Status    |
-| ------------------------ | :-----------: |
-| 🐍 Python                | 🟢 Practicing |
-| 🔢 NumPy                 | 🟢 Practicing |
-| 🐼 Pandas                | 🟢 Practicing |
-| 📊 Data Visualization    | 🟢 Practicing |
-| 📐 Statistics            | 🟢 Practicing |
-| 🤖 Machine Learning      |  🟡 Learning  |
-| 🧠 GenAI                 |  🟡 Exploring |
-| 📊 Advanced Data Science |    🔵 Next    |
+Every concept is an opportunity to experiment and improve.
 
----
-
-# 🚀 What's Next?
-
-This repository will continue evolving as I move deeper into Data Science.
-
-### 🔜 Upcoming Areas
-
-* Advanced Exploratory Data Analysis
-* Feature Engineering
-* Advanced Machine Learning
-* Model Optimization
-* SQL for Data Science
-* End-to-End ML Projects
-* Generative AI
-* Real-world datasets
-* Data-driven applications
+| Stage | What I Do |
+|---|---|
+| 📖 Understand | Learn the theory and underlying concepts |
+| 💻 Implement | Write Python code and practise syntax |
+| 🧪 Experiment | Apply techniques to datasets |
+| 📊 Analyze | Visualize patterns and interpret results |
+| 🔧 Debug | Identify errors and improve implementations |
+| 🚀 Improve | Explore better approaches and techniques |
 
 ---
 
-# 💡 Why This Repository?
+## 🌱 Current Learning Goals
 
-This isn't just a collection of notebooks.
-
-It's a **learning laboratory** where I:
-
-> 🧠 Learn concepts
-> ↓
-> 💻 Implement them
-> ↓
-> 📊 Experiment with data
-> ↓
-> 🔍 Analyze results
-> ↓
-> 🚀 Build better solutions
+- Strengthen Python and Data Analysis fundamentals.
+- Improve statistical understanding.
+- Develop strong EDA and data-cleaning skills.
+- Understand Machine Learning algorithms in depth.
+- Practise feature engineering and model evaluation.
+- Build end-to-end Data Science projects.
+- Explore NLP, Deep Learning and Generative AI.
 
 ---
 
-# 📌 Repository Goals
+## 📊 GitHub Statistics
 
-* Build strong Data Science fundamentals
-* Practice Python-based data analysis
-* Understand statistical concepts
-* Develop visualization skills
-* Learn Machine Learning systematically
-* Build a portfolio of practical work
-* Create a foundation for real-world Data Science projects
+<div align="center">
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=GouravSinghDosad&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
 
-## 🌱 From Practice to Projects
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GouravSinghDosad&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-```text
-Learning
-   ↓
-Practice
-   ↓
-Experimentation
-   ↓
-Mini Projects
-   ↓
-Real-World Projects
-   ↓
-🎯 Data Scientist
-```
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=GouravSinghDosad&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
 
 ---
 
-## ⭐ If You Find This Useful
+## 🤝 Let's Connect!
 
-If you're also learning Data Science, feel free to explore the notebooks, experiment with the datasets, and build on top of the examples.
+I'm always interested in connecting with people passionate about:
 
-⭐ **Star the repository** if you find it useful!
+- Data Science
+- Data Analytics
+- Machine Learning
+- Artificial Intelligence
+- Python & Statistics
 
----
+<div align="center">
 
-<p align="center">
+[![GitHub](https://img.shields.io/badge/GitHub-GouravSinghDosad-181717?style=for-the-badge&logo=github)](https://github.com/GouravSinghDosad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
-<img src="https://komarev.com/ghpvc/?username=GouravSinghDosad&style=for-the-badge&color=blue" />
+<br/>
 
-<br><br>
+### ⭐ If you find this repository interesting, consider giving it a star!
 
-<b>🚀 Learning Data Science, one dataset at a time.</b>
+**Made with ❤️, Python, and a passion for Data Science.**
 
-</p>
+### 🚀 Learn. Practice. Analyze. Build. Repeat.
 
----
-
-<p align="center">
-<i>Built with Python 🐍 • Curiosity 🧠 • Data 📊 • Consistency 🔥</i>
-</p>
+</div>
